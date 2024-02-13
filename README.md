@@ -1,0 +1,2 @@
+# processManager
+用javafx搞了一个简单的服务管理器，可用来开启和关闭mysql等类型的服务。当前只可运行在Windows上
